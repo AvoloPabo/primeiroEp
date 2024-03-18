@@ -1,10 +1,14 @@
+h1 {
+    color: rgb(5, 245, 205);
+   text-align: center;
+    font-size: 50px;
+}
+
 body{
 
-background-color: rgb(94, 29, 29);
-
-} 
-body{
-
-    image-resolution: 600px;height: 600;
-
+   background-color: rgb(141, 69, 69);
+}
+p {
+   color: rgb(131, 131, 168);
+   font-size: 30px;
 }
