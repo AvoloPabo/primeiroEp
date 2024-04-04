@@ -16,50 +16,11 @@ p {
    font-size: 30px;
 }
 
-#ID1{
+.imagem{
    width: 350px;
    height: 250px;
    }
-#ID2{
-  width: 350px;
-  height: 250px;
-}  
-#ID3{
- width: 350px;
- height: 250px;
-}
-#ID4{
-width: 350px;
-height: 250px;
-}
-#ID5{
-width: 350px;
-height: 250px;
-}
-#ID6{
-width: 350px;
-height: 250px;
-}
-#ID7{
-width: 350px;
-height: 250px;
-}
-#ID7{
-width: 350px;
-height: 250px;
-}
-#ID8{
-width: 350px;
-   height: 250px;
-}
- #ID9{
- width: 350px;
-height: 250px;
- }
- #ID10{
-width: 350px;
-height: 250px;
-} 
+
 .fabrica{
 width: 500px;
 height: 450px;
